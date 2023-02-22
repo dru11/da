@@ -48,3 +48,7 @@ div.a{
 .wordspace{
   word-spacing: 1px;
 }
+
+#changeFontSize16{
+  font-size: 16px;
+}
